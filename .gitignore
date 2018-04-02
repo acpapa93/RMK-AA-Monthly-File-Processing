@@ -1,0 +1,11 @@
+/.env
+/dataFiles
+/logs
+/build_mainGUI_amd64_3.6
+/build_moveFiles_amd64_3.6
+/build_processFiles_amd64_3.6
+/__pycache__
+/dist
+/winscpScripts
+/README.txt
+/jobpatch-scripts.xla
